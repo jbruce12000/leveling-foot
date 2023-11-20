@@ -1,0 +1,1 @@
+openscad ./leveling-foot.scad --camera=0,0,0,70,0,0,0 --viewall --autocenter -o leveling-foot.png --imgsize 600,600
